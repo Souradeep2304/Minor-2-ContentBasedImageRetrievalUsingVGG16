@@ -1,0 +1,3 @@
+# Conetent Based Image Retrieval Using VGG16
+
+Using Tensor Flow and Keras we are going to train a VGG16 model, using which we will extract the features of a predefined image data set and store the features in the format HDF5. And then we are going to search our database using the features based on a query image being given by the user.  We are using a GPU to run the program in python with the help of CUDA.
